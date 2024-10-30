@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269310670608",
+    "project_id": "ratasgroupcorporation",
+    "storage_bucket": "ratasgroupcorporation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269310670608:android:132cc9a0e0d5a92d501795",
+        "android_client_info": {
+          "package_name": "androidx.test.runner.AndroidJUnitRunner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdly8R3qeqHvgy8senooKtx5BKjWWb7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269310670608:android:45f5b1a119db65b7501795",
+        "android_client_info": {
+          "package_name": "com.example.im_a_rat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdly8R3qeqHvgy8senooKtx5BKjWWb7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
